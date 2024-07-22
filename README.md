@@ -1,4 +1,7 @@
 # Steps for pushing into Github:
+
+Please bear in mind this is for Linux env, if windows, I am not too sure hehe
+
 ```
 git init
 git config --global user.name "<insert your github name>"
